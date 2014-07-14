@@ -1,0 +1,2 @@
+karma-react-cjsx-preprocessor
+=============================
